@@ -1,6 +1,6 @@
 # LocademiaCripto
 
-Sitio web: https://www.locademiacripto.com
+Sitio web: https://bit.ly/m/LocademiaCripto
 
 En este repositorio público de GitHub ponemos todas las ideas en desarrollo, algunas públicas (otras privadas)
 
